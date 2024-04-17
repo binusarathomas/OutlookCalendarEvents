@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "outlook-calendar-events",
+    "libraryId": "c2bec758-e66c-4663-9d3c-28c82f0fb517",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "Outlook-Calendar-Events",
+    "solutionShortDescription": "Outlook-Calendar-Events description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
